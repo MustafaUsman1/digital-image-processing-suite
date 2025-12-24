@@ -16,9 +16,9 @@ This project bridges the gap between theoretical mathematics and practical compu
 - **Optimizing matrix-based computations**
 
 Perfect for demonstrating computational science skills, algorithm analysis, and mathematical programming proficiency.
-![Edge Detection Demo](images/edge_detection_demo.png)
-![Frequency Domain Demo](images/frequency_domain_demo.png)
-![Morphological Operations Demo](images/morphological_ops_demo.png)
+![Edge Detection Demo](edge_detection_demo.png)
+![Frequency Domain Demo](frequency_domain_demo.png)
+![Morphological Operations Demo](morphological_ops_demo.png)
 ---
 
 ## 📚 Implemented Algorithms
