@@ -251,13 +251,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👨‍💻 Author
 
-**[Your Name]**  
-Computational Science Portfolio Project  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
-
----
 
 ## 🌟 Acknowledgments
 
